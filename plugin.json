@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "genagent.video-analysis",
+  "version": "0.1.0",
+  "description": "视频文案提取与内容分析插件，独立处理来自各平台的视频和文案数据。",
+  "author": {
+    "name": "GenAgent"
+  },
+  "license": "MIT",
+  "keywords": ["video", "transcript", "analysis", "content", "genagent"]
+}
